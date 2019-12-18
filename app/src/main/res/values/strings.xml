@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleSinginDemo</string>
+
+    <string name="facebook_app_id">420411691875127</string>
+    <string name="fb_login_protocol_scheme">fb420411691875127</string>
+
+</resources>
